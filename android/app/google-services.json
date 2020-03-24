@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090805271613",
+    "firebase_url": "https://todolistexample-ef1bb.firebaseio.com",
+    "project_id": "todolistexample-ef1bb",
+    "storage_bucket": "todolistexample-ef1bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090805271613:android:dc25d4432f4a7a3aaeee54",
+        "android_client_info": {
+          "package_name": "com.sarah.letsplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090805271613-cdkl6ndg1a6f8dmvf8nmetmamklc26bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25R-7qbybkeuj9gdLHyNBAF2mlDSCCco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090805271613-cdkl6ndg1a6f8dmvf8nmetmamklc26bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
